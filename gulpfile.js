@@ -1,3 +1,5 @@
+'use strict';
+
 var mail = require('./');
 var smtpConfig = require('./test/smtp-config');
 var gulp = require('gulp');
